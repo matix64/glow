@@ -1,6 +1,9 @@
 [package]
 name = "glow"
 version = "0.0.1"
+description = "An alternative Minecraft server implementation"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/matix64/glow"
 authors = ["Matias <matias.pz@proton.me>"]
 edition = "2018"
 
